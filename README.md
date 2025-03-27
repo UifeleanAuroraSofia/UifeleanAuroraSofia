@@ -1,12 +1,3 @@
-<!-- Banner / Personal Image / GIF -->
-<p align="center">
-  <img 
-       src="https://user-images.githubusercontent.com/..." 
-       alt="Personal Banner" 
-       width="800" 
-  />
-</p>
-
 <h1 align="center">Hello, I'm Aurora Sofia Uifelean!</h1>
 <h3 align="center">An Intern Full-Stack Developer at @Bosch, student at @UTCN passionate about programming</h3>
 
