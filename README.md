@@ -23,13 +23,13 @@
       <strong style="color: #fff;">80% - Confident</strong>
     </div>
   </div>
-  <!-- Example badges for Full-Stack Development (adjust to your actual stack) -->
+  <!-- Badges -->
   <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-    <!-- Add or remove any other relevant badges -->
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" />
   </p>
 </div>
 <br/>
@@ -43,12 +43,10 @@
       <strong style="color: #fff;">70% - Proficient</strong>
     </div>
   </div>
-  <!-- Example badges for IoT/Message Brokers (adjust to your actual experience) -->
+  <!-- Badges -->
   <p>
     <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-    <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-    <!-- Add or remove any other relevant badges -->
   </p>
 </div>
 <br/>
@@ -56,12 +54,15 @@
 <!-- VARIOUS SECTION -->
 <div>
   <p><strong>Various (University and Personal Projects)</strong></p>
-  <!-- Badges for each language -->
+  <!-- Badges -->
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-Basic-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   </p>
 </div>
 
